@@ -1,7 +1,7 @@
 # numerical-methods
 numerical methods implemented in C:
 
-1- Bisection
+1- Bisection\n
 2- Regula-Falsi
 3- Newton-Raphson
 4- Inversion of a matrix
